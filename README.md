@@ -29,7 +29,9 @@ When viewing the results per lot (individually), it is clear that lot 1 and lot 
 From the data shown above from the t-test, it is clear that there is no statistically significant difference between the mean PSI of the overall manufacturing process mean PSI and the population's mean PSI as the p-value is *greater* than 0.05, and therefore the null hypothesis **cannot** be rejected (fail to reject the null).
 
 ![t-test](Resources/t-test_lot_1.jpeg)
+
 ![t-test](Resources/t-test_lot_2.jpeg)
+
 ![t-test](Resources/t-test_lot_3.jpeg)
 
 The p-value for **lot 1** and **lot 2** are both above 0.05, and therefore we fail to reject the null hypothesis. However, since the p-value of our t-test for **lot 3** is less than 0.05, we can conclude that there is a statistically significant difference between the overall manufacturing process mean PSI and the mean PSI of lot 3.
